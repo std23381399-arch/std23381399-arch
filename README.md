@@ -9,9 +9,7 @@
 ### 🛡️ About Me
 - 🎓 **Cybersecurity Student** (3rd Year) at Al-Mustaqbal University.
 - 👨‍💻 **Department Representative** & **GDSC Lead**, managing tech communities and student events.
-- ✍️ Author of **"The Code" (الشفرة)**, a digital guide for entering the world of cybersecurity.
-- 📽️ Content Creator at **CySphere** & **TabieNews**, spreading digital awareness via TikTok and Telegram.
-- 🇰🇷 Learning **Hangul** (Korean language) and a fan of action K-Dramas like *Vagabond*.
+- 📽️ Content Creator at **CySphere** spreading digital awareness via TikTok and Telegram.
 
 ---
 
