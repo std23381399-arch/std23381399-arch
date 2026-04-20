@@ -1,14 +1,13 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndndndndndndndndndndndndndndndndndndndndndnd/3o7TKSjP3g9p9NnNOC/giphy.gif" width="30"> Terminal: /home/mustafa_abbas
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Student;GDSC+Lead+@+Al-Mustaqbal;Digital+Forensics+Enthusiast;Graphic+Designer+%26+Video+Editor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Student;Digital+Forensics+Enthusiast;Graphic+Designer+%26+Video+Editor" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🛡️ About Me
-- 🎓 **Cybersecurity Student** (3rd Year) at Al-Mustaqbal University.
-- 👨‍💻 **Department Representative** & **GDSC Lead**, managing tech communities and student events.
+- 🎓 **Cybersecurity Student**.
 - 📽️ Content Creator at **CySphere** spreading digital awareness via TikTok and Telegram.
 
 ---
