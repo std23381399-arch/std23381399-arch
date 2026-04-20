@@ -14,7 +14,6 @@
 
 ### 🚀 Current Projects
 - 🔍 **Deepfake Detection Project:** Developing AI-based tools for the NUR AI 2026 Championship.
-- 📖 **The Code Book:** Finalizing the structure for a comprehensive cybersecurity roadmap.
 - ⚡ **OSINT Investigations:** Building automated workflows for digital intelligence gathering.
 
 ---
